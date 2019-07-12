@@ -1,0 +1,11 @@
+****Use the command: pyinstaller -F --icon="C:\Users\<User-name>\Desktop\tm9debwp5f301.ico" FILE_MOVE.py
+
+******Where the icon file "tm9debwp5f301.ico" for my ".exe" file is present in The Desktop of my PC.
+
+*********It will create a Folder name "dist" on the current working directory where you have kept the ".exe" file
+
+>>>>>>>> Inside "dist" you'll find "FILE_MOVE.exe" file (This is the required ".exe" file)
+
+**** This is a mobile ".exe" file and will create Discriminate Folders for seperate type of files.
+
+----------------------------------------xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx----------------------------------------------
